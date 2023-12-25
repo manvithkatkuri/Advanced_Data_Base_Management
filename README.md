@@ -8,6 +8,14 @@ matches they were involved in, and other aspects on those leagues that they were
 To effectively balance overhead costs as well as retrieval times for reads from the database, appropriate indexing must be allocated to either a single or a combination of columns, 
 while maintaining integrity and accuracy of the data retrieved.
 
+1. Ball_by_Ball : Includes ball by ball details of all the 577 matches.
+2. Match : Match metadata
+3. Player : Player metadata
+4. Player_Match : to know , who is the captain and keeper of the match , Includes every player who take part in match even If player haven't get a chance to either bat or bowl.
+5. Season : Season wise details , Orange cap , Purple cap , Man_Of_The_Series
+6. Team : Team Name
+
+   
 ER Diagram
 ![ER Diagram](https://github.com/manvithkatkuri/Advanced_Data_Base_Management/assets/102502757/8f803a6e-20f4-4985-8f1c-7208eebfc40e)
 
