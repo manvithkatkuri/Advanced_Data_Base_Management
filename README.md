@@ -17,6 +17,9 @@ while maintaining integrity and accuracy of the data retrieved.
 
    
 ER Diagram
+
+
+
 ![ER Diagram](https://github.com/manvithkatkuri/Advanced_Data_Base_Management/assets/102502757/8f803a6e-20f4-4985-8f1c-7208eebfc40e)
 
 
