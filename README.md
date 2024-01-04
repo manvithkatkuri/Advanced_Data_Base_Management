@@ -4,6 +4,9 @@ and seasonal information. The "BALL_BY_BALL" entity captures specifics of each d
 tournament years, respectively. This setup would be ideal for in-depth analysis of matches and player statistics over various IPL seasons that enables cricket fans as well 
 as those in the sports industry such as journalists, bloggers, writers, etc, to be able to accurately and effectively lookup some of their favourite players and teams, the 
 matches they were involved in, and other aspects on those leagues that they were involved in, such as the category under which it falls, winners, scores, etc.
+Data Mining
+
+Predicting the Result of the match based on team winning the Toss. We have considered the following columns "Toss_Decision","Match_Winner_Id","City_Name","Team_Name_Id","Opponent_Team_Id", for predicting of the result
 
 To effectively balance overhead costs as well as retrieval times for reads from the database, appropriate indexing must be allocated to either a single or a combination of columns, 
 while maintaining integrity and accuracy of the data retrieved.
